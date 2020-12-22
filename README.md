@@ -17,16 +17,17 @@
 출력 조건
 - 첫째 줄에 동빈이의 큰 수의 법칙에 따라 더해진 답을 출력한다.
 
+
+
 입력 예시
 
 5 8 3
-
 2 4 5 4 6 
 
- 
 
 출력 예시
 
+
 46 
 
-![image](https://user-images.githubusercontent.com/66946182/102858785-3028be80-446e-11eb-80f3-41275feb4bde.png)
+<img width ="400" src = "https://user-images.githubusercontent.com/66946182/102858785-3028be80-446e-11eb-80f3-41275feb4bde.png">
