@@ -1,5 +1,7 @@
 # Rule_of_Big_Number
-그리디 알고리즘 
+
+
+## 그리디 알고리즘 
 
 기출: 2019 국가 교육기관 코딩 테스트 , 이것이 코딩테스트다 with 파이썬
 
@@ -26,3 +28,5 @@
 출력 예시
 
 46 
+
+![image](https://user-images.githubusercontent.com/66946182/102858785-3028be80-446e-11eb-80f3-41275feb4bde.png)
